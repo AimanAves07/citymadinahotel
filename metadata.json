@@ -1,0 +1,6 @@
+{
+  "name": "City Madina Restaurant",
+  "description": "Official website for City Madina Restaurant (City Madina Hotel) in Channapatna, Karnataka. Authentic biryani, smoky grilled chicken, Mughlai gravies, dine-in, takeaway, and home delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
